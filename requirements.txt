@@ -5,3 +5,4 @@ cython
 cffi
 numexpr
 ipython==6.1
+scipy
